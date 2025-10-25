@@ -1,2 +1,2 @@
 # Relógio Analógico
-Relógio analógico feito com HTML, CSS e JavaScript.
+Relógio analógico desenvolvida com HTML, CSS e JavaScript
